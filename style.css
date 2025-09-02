@@ -1,0 +1,48 @@
+.mnist-container {
+    padding: 20px;
+    background: #f0f2f5;
+    min-height: 100vh;
+}
+
+.upload-section {
+    margin-bottom: 24px;
+}
+
+.upload-content {
+    padding: 40px 0;
+}
+
+.preview-section {
+    margin-top: 24px;
+    text-align: center;
+}
+
+.result-section {
+    margin-top: 24px;
+    padding: 20px;
+    background: #fafafa;
+    border-radius: 6px;
+}
+
+.prediction-result {
+    text-align: center;
+    margin: 20px 0;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.probability-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+    padding: 8px;
+    background: white;
+    border-radius: 4px;
+}
+
+.ant-progress-line {
+    margin-bottom: 0;
+}
