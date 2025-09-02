@@ -1,0 +1,13 @@
+{
+  "name": "mnist-frontend",
+  "version": "1.0.0",
+  "description": "手写数字识别前端界面",
+  "type": "module",
+  "scripts": {
+    "start": "python -m http.server 3000",
+    "dev": "python -m http.server 3000"
+  },
+  "keywords": ["mnist", "react", "machine-learning"],
+  "author": "Your Name",
+  "license": "MIT"
+}
